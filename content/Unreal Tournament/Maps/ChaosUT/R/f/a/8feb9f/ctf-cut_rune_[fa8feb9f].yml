@@ -41,6 +41,11 @@ downloads:
   main: false
   repack: false
   state: "OK"
+- url: "https://unrealarchivesgp.blob.core.windows.net/files/Unreal%20Tournament/Maps/ChaosUT/R/f/a/8feb9f/ctf-cut_rune.zip"
+  main: false
+  repack: false
+  state: "OK"
+links: {}
 deleted: false
 gametype: "ChaosUT"
 title: "Rune for ChaosUT"
